@@ -10,7 +10,7 @@
 
 nbproject/
 build/
-
+lib/
 
 # eclipse project
 .classpath
